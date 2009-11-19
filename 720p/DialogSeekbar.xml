@@ -45,6 +45,7 @@
 				<midtexture>osd/osd_progress_mid.png</midtexture>
 				<righttexture>osd/osd_progress_right.png</righttexture>
 				<info>Player.Progress</info>
+				<colordiffuse>OSDProgress</colordiffuse>
 				<posx>30</posx>
 				<posy>130</posy>
 				<width>1040</width>
